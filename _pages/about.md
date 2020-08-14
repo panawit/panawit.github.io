@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, I am a researcher at the [Antenna and Propagation Laboratory] (http://www.ap.ide.titech.ac.jp/), Tokyo Institute of Technology, Japan led by [Prof. Jun-ichi Takada](http://www.ap.ide.titech.ac.jp/~takada/index-e.html). This lab is also a part of [Mobile Communication Research Group] (http://www.mcrg.ee.titech.ac.jp/) which is comprised of 7 laboratories researching on different aspects of mobile communications.  
+Hi, I am a researcher at the [Antenna and Propagation Laboratory](http://www.ap.ide.titech.ac.jp), Tokyo Institute of Technology, Japan led by [Prof. Jun-ichi Takada](http://www.ap.ide.titech.ac.jp/~takada/index-e.html). This lab is also a part of [Mobile Communication Research Group](http://www.mcrg.ee.titech.ac.jp) which is comprised of 7 laboratories researching on different aspects of mobile communications.  
 
 Currently, main research topic is the spectrum sensing for cognitive radio at millimeter wave bands. Specifically, my task is to design the matched filter detector, develop the sensor to detect millimeter wave signals at low SNR, and implement the localization algorithm to detect the location of primary systems.
 
