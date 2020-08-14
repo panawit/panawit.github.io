@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 
 Hi, I am a researcher at the [Antenna and Propagation Laboratory] (http://www.ap.ide.titech.ac.jp/), Tokyo Institute of Technology, Japan led by [Prof. Jun-ichi Takada](http://www.ap.ide.titech.ac.jp/~takada/index-e.html). This lab is also a part of [Mobile Communication Research Group] (http://www.mcrg.ee.titech.ac.jp/) which is comprised of 7 laboratories researching on different aspects of mobile communications.  
 
