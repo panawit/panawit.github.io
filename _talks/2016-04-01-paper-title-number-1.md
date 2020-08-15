@@ -1,7 +1,7 @@
 ---
 title: "Clustering method based on scatterer locations for indoor dynamic MIMO channel"
 collection: talks
-type: "Conference"
+type: "International conference"
 permalink: /talks/2016-04-01-paper-title-number-1
 venue: "European Conference on Antennas and Propagation (EuCAP)"
 date: 2016-04-10
