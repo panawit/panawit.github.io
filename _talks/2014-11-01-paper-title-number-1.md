@@ -1,7 +1,7 @@
 ---
 title: "Clustering of multipath components utilizing geometrical parameters for indoor double directional propagation channel"
 collection: talks
-type: "Talk"
+type: "International conference"
 permalink: /talks/2014-11-01-paper-title-number-1
 venue: "Asia-Pacific Microwave Conference (APMC)"
 location: "Sendai, Japan"
