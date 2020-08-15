@@ -77,14 +77,14 @@ Workshops and Conferences
   
 
 Teachings
- ======
+======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
 
-Extra-Curricular activities
- ======
+Extra - Curricular Activities
+======
  * Leader and organizer of the Mobile Communication Research Group (MCRG) Open House (2017-2018)
  * ASEAN Job Fair Committee (2016)
  * Webmaster of the Mobile Communication Research Group (MCRG) web page (2014-2015)
