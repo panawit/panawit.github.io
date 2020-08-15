@@ -1,7 +1,7 @@
 ---
 title: "Cluster Intensity and Spread Characteristics in Classroom Scenario at 10 and 28 GHz Bands"
 collection: talks
-type: "Conference"
+type: "International conference"
 permalink: /talks/2020-03-01-paper-title-number-1
 venue: "London School of Testing"
 date: 2020-03-15
