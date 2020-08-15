@@ -1,7 +1,6 @@
 ---
 title: "Guest lecturer "
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2014-Sagami
 venue: "Sagami Women's University"
 date: 2014-11-01
