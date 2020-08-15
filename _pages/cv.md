@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. with First Class Honors in Electronics and Communication Engineering, Siridhorn International Institute of Technology, Thailand, 2013
+* M.Eng. in International Development Engineering (Majoring in Antennas and Propagation), Tokyo Insitute of Technology, Japan, 2016
+* D.Eng. in Transdisciplinary Science and Engineering (Majoring in Antennas and Propagation), Tokyo Insitute of Technology, Japan, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2012 - June 2012: Research Assistant
+  * Darmstadt University of Technology, Darmstadt, Germany
+  * Topic: Optimal transmit beamforming using convex optimization technique
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2016: Guest Ph.D. researcher
+  * Aalborg University, Aalborg, Denmark
+  * Topic: Frequency dependency analysis of radio wave path clusters in indoor environment at microwave - millimeter wave bands using physical optics
+  
+* January 2018 – February 2018: Guest Ph.D. researcher
+  * Ilmenau University of Technology, Ilmenau, Germany
+  * Topic: Radio propagation prediction using ray tracing and diffuse scattering models at millimeter wave bands
+  
+* September 2019 - October 2019: Part-time researcher
+  * Tokyo Institute of Technology, Tokyo, Japan
+  * Topic: Diffuse scattering models for propagation prediction at millimeter wave bands (Collaboration with NTT Docomo Inc.)
+
+* December 2019 - Present: Researcher
+  * Tokyo Institute of Technology, Tokyo, Japan
+  * Topic: Spectrum sensing at millimeter wave bands (Collaboration with KDDI Inc. and Ministry of Internal Affairs and Communications, Japan)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * MATLAB
+  * C
+  * Python
+* Electrical Instruments
+  * Vector Network Analyzer
+  * Spectrum Analyzer
+  * Signal Generator
+  * Digital Oscilloscope
+* Languages
+  * Thai: Native
+  * English: Fluent (TOEF iBT:90, TOEIC:930)
+  * Japanese: Everyday-life Conversational Level (JLPT N2)
 
 Publications
 ======
