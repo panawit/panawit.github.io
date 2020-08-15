@@ -53,27 +53,41 @@ Skills
   * English: Fluent (TOEF iBT:90, TOEIC:930)
   * Japanese: Everyday-life Conversational Level (JLPT N2)
 
-Publications
+Academic Awards
+======
+* Best Student Paper Award, Institute of Electrical and Electronics Engineers (IEEE) Antenna and Propagation Society (APS), Japan (2019)
+* Best Student Presentation Award, Institute of Electronics, Information and Communication Engineers Short Range Wireless (IEICE SRW) Conference (2017)
+* Japanese ministry of Education, Culture, Sports, Science & Technology (MEXT) scholarship (2013)
+* Full Scholarship and King Bhumibhol's Scholarship, Sirindhorn International Institute of Technology (SIIT) (2009)
+* Honorable Mention, 10th Asian Physics Olympiad (2009)
+* North-east region representative, 4th National Mathematics Olympiad (2007)
+
+
+Journal Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Workshops and Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
- 
-  <!-- Teaching
+Teachings
  ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
-Service and leadership
+  
+Extra-Curricular activities
  ======
- * Currently signed in to 43 different slack teams -->
-
+ * Leader and organizer of the Mobile Communication Research Group (MCRG) Open House (2017-2018)
+ * ASEAN Job Fair Committee (2016)
+ * Webmaster of the Mobile Communication Research Group (MCRG) web page (2014-2015)
+ * English camp volunteer (2013) - To improve children’s mental welfare 
+ * Japan study program participant (2012) – Experience Japan’s condition after great earthquake and hold presentation sessions to promote studying abroad in Japan 
+ * Leader of the SIIT’s robotic club (2011-2013)
 
 
