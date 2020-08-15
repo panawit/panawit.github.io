@@ -75,12 +75,14 @@ Workshops and Conferences
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+
 Teachings
  ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
+
 Extra-Curricular activities
  ======
  * Leader and organizer of the Mobile Communication Research Group (MCRG) Open House (2017-2018)
