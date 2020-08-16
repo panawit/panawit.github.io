@@ -17,25 +17,25 @@ Education
 
 Work experience
 ======
-* April 2012 - June 2012: Research Assistant
-  * Darmstadt University of Technology, Darmstadt, Germany
-  * Topic: Optimal transmit beamforming using convex optimization technique
+* December 2019 - Present: Researcher
+  * Tokyo Institute of Technology, Tokyo, Japan
+  * Topic: Spectrum sensing at millimeter wave bands (Collaboration with KDDI Inc. and Ministry of Internal Affairs and Communications, Japan)
 
-* November 2016: Guest Ph.D. researcher
-  * Aalborg University, Aalborg, Denmark
-  * Topic: Frequency dependency analysis of radio wave path clusters in indoor environment at microwave - millimeter wave bands using physical optics
-  
-* January 2018 – February 2018: Guest Ph.D. researcher
-  * Ilmenau University of Technology, Ilmenau, Germany
-  * Topic: Radio propagation prediction using ray tracing and diffuse scattering models at millimeter wave bands
-  
 * September 2019 - October 2019: Part-time researcher
   * Tokyo Institute of Technology, Tokyo, Japan
   * Topic: Diffuse scattering models for propagation prediction at millimeter wave bands (Collaboration with NTT Docomo Inc.)
 
-* December 2019 - Present: Researcher
-  * Tokyo Institute of Technology, Tokyo, Japan
-  * Topic: Spectrum sensing at millimeter wave bands (Collaboration with KDDI Inc. and Ministry of Internal Affairs and Communications, Japan)
+* January 2018 – February 2018: Guest Ph.D. researcher
+  * Ilmenau University of Technology, Ilmenau, Germany
+  * Topic: Radio propagation prediction using ray tracing and diffuse scattering models at millimeter wave bands
+
+* November 2016: Guest Ph.D. researcher
+  * Aalborg University, Aalborg, Denmark
+  * Topic: Frequency dependency analysis of radio wave path clusters in indoor environment at microwave - millimeter wave bands using physical optics
+
+* April 2012 - June 2012: Research Assistant
+  * Darmstadt University of Technology, Darmstadt, Germany
+  * Topic: Optimal transmit beamforming using convex optimization technique
   
 Skills
 ======
