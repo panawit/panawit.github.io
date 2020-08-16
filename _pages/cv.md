@@ -50,7 +50,7 @@ Skills
   * Digital Oscilloscope
 * Languages
   * Thai: Native
-  * English: Fluent (TOEF iBT:90, TOEIC:930)
+  * English: Fluent (TOEFL iBT:90, TOEIC:930)
   * Japanese: Everyday-life Conversational Level (JLPT N2)
 
 Academic Awards
